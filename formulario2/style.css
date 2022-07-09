@@ -1,0 +1,31 @@
+body{
+    background-image: url("./img/5603685.jpg");
+    background-size: cover;
+}
+#genero{
+    text-align: center;
+   padding: 250px;
+}
+button{
+    border: 0ch;
+    font-size: 100px;
+}
+#menina{
+    margin-left: 10px;
+    background-color: pink;
+}
+#menina:hover{
+    margin-left: 10px;
+    background-color: white;
+    color:pink;
+}
+
+#menino{
+    margin-left: 10px;
+    background-color: rgb(180, 225, 255);
+}
+#menino:hover{
+    margin-left: 10px;
+    background-color: white;
+    color:rgb(180, 225, 255);
+}

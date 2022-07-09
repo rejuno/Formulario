@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url("./img/fundo-do-ceu-em-aquarela-pintada-a-mao_23-2148907303.webp");
+    background-size: cover;
+}
+@font-face {
+    font-family: 'Creme';
+    src: url("Creme Espana.otf");
+}
+header{
+    font-size: 20pt;
+    text-align: center;
+    font-family: 'Creme';
+}
+.titulo{
+    text-align: center;
+    font-family: 'Creme';
+    font-size: 20pt;
+    background-color: pink;
+}
+label{
+    
+    font-family: 'Creme';
+    font-size: 20pt;
+    margin-left: 50px;
+    
+}
+fieldset{
+    border: 0;
+    background-color: rgb(248, 241, 243);
+    text-align: center;
+    padding: 70px;
+}
+input, button{
+    background-color: rgb(255, 211, 218);
+    border: 0;
+    font-family: 'Creme';
+}
+button{
+    
+    font-size: 15pt;
+    padding: 10px;
+}
+button:hover{
+    background-color: white;
+    color: #f1adf1;
+    cursor: pointer;
+}
